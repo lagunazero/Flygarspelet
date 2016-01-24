@@ -1,0 +1,7 @@
+*.suo
+/Binaries
+/Build
+/.vs
+/Intermediate
+/FlyFlyFlyer.sdf
+/Saved
